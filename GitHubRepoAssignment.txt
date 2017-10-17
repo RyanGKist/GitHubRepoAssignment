@@ -1,0 +1,8 @@
+mkdir GitHubRepoAssignment
+cd GitHubRepoAssignment
+git init
+touch readme.md
+open readme.md
+git status
+git add GitHubRepoAssignment.txt
+git commit -m "adding Assignment text"
